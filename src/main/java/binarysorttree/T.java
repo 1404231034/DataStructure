@@ -1,5 +1,10 @@
-package BinarySortTree;
+package binarysorttree;
 
+/**
+ *
+ * @author lpc
+ * @date 2019.10.28
+ */
 public class T {
     public static void main(String[] args){
         BinarySortTree b = new BinarySortTree(5);

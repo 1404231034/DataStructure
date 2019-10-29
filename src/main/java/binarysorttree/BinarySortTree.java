@@ -1,5 +1,10 @@
-package BinarySortTree;
+package binarysorttree;
 
+/**
+ *
+ * @author lpc
+ * @date 2019.10.28
+ */
 public class BinarySortTree {
 
     private int value;
